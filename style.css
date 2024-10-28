@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-image: url(https://wallpapercave.com/wp/8iAP1eI.jpg);
+    margin-top: 10%;
+    margin-right: 60px;
+}
+input{
+   
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+}
+.display{
+    width: 290px;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color:deeppink;
+}
+div{
+    display: inline-block;
+    height:min-content;
+    border-color:#ef8c78bb;
+    border-style:solid;
+    border-width: 10px ;
+    margin-bottom: 10px;
+    background-color:#f62702bb;
+}
+.btn{
+    margin-top: 5px;
+    font-size: medium;
+}
+
+
+
+
